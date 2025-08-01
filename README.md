@@ -102,11 +102,3 @@ This project includes saved models and encoders for easy reuse:
 
 ---
 
-## 🏁 Future Improvements
-
-- Incorporate PCA for dimensionality reduction
-- Deploy on Streamlit or Flask with a UI
-- Improve performance with DBSCAN or Gaussian Mixture Models
-- Integrate customer feedback loop for semi-supervised updates
-
----
